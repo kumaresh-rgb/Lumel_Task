@@ -86,3 +86,8 @@ Feel free to fork, raise issues, or submit pull requests. Please ensure code qua
 
 License
 This project is licensed under the MIT License.
+
+SCREENSHOT: 
+![image](https://github.com/user-attachments/assets/5e572ea1-26e2-4a7f-ab5e-01f05aac18f6)
+
+![image](https://github.com/user-attachments/assets/c4f5e3eb-8639-43be-8eb0-ef61c24b3cc5)
