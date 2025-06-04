@@ -25,7 +25,7 @@ Getting Started
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/SalesAnalyticsAPI.git
+git clone https://github.com/kumaresh-rgb/Lumel_Task
 cd SalesAnalyticsAPI
 2. Configure Database Connection
 Update the connection string in appsettings.json or appsettings.Development.json:
